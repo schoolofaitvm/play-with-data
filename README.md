@@ -10,7 +10,7 @@ A very basic understanding of Python object oriented programming and other gener
 - Pandas
 
 ### Lessons
-1) [Introduction to Python and Data Science.](https://github.com/schoolofaitvm/play-with-data/blob/master/1_Introduction%20to%20Python%20and%20Data%20Science.ipynb)
+1) [Introduction to Python and Data Science.](https://github.com/schoolofaitvm/play-with-data/blob/master/1_Introduction%20to%20Python%20and%20Data%20Science.ipynb)[Video Tutorial](https://www.youtube.com/watch?v=JueM05g4MWs&t=926s)
 
 2) [Introduction to Numpy and Pandas.](https://github.com/schoolofaitvm/play-with-data/blob/master/2_Introduction%20to%20Numpy%20and%20Pandas.ipynb)
 
